@@ -1,0 +1,14 @@
+romania:tara
+	dolj:judet
+		craiova:oras
+		-
+		melinesti:oras
+		-
+	-
+	olt:judet
+		bals:oras
+		-
+		slatina:oras
+		-
+	-
+-
