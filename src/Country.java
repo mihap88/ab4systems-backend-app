@@ -1,4 +1,4 @@
 
-public class Country implements Place {
-
+public class Country extends Place {
+	
 }

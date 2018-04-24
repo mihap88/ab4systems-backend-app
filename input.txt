@@ -1,14 +1,18 @@
-romania:tara
-	dolj:judet
-		craiova:oras
+romania:COUNTRY
+	dolj:REGION
+		?gurahumorului:1.5:gratar/20:21/04/2018:31/08/2018
+		craiova:CITY
+			?balci:0.25:inot/23.50,parasuta/30,pescuit/12:16/03/2017:16/04/2017
 		-
-		melinesti:oras
+		melinesti:CITY
 		-
 	-
-	olt:judet
-		bals:oras
+	olt:REGION
+		bals:CITY
 		-
-		slatina:oras
+		?terstegen:10.5:kobol/20:21/04/2018:31/08/2018
+		slatina:CITY
+			?margaritar:2.5:vasilina/20,gratar/20:21/04/2018:31/08/2018
 		-
 	-
 -
